@@ -1,0 +1,13 @@
+{
+  "verbose": false,
+  "watch": [
+    "bin",
+    "middleware",
+    "routes",
+    "services",
+    "views",
+    "app.js",
+    "config.yml"
+  ],
+  "ext": "js,tmpl,yml"
+}
