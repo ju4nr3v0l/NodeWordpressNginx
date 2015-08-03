@@ -1,0 +1,18 @@
+
+/*
+Theme Name: NODE JS NGINX WORDPRESS
+Author: @ju4nr3v0l
+*/
+
+body {
+	background-color: #ffffff;
+	color: blue;
+}
+
+a {
+	color:red;
+}
+
+a:hover {
+	-webkit-transform: scale(3, 3);
+}
